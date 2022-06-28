@@ -32,6 +32,17 @@
     --xlarge: 3em;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 /* background-colors */
 .f-white { background-color: var(--white); }
 .bg-light { background-color: var(--light); }
