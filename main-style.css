@@ -1,0 +1,26 @@
+:root {
+    /* contrast */
+    --white: white;
+    --light: #dcdcdc;
+    --grey: #919191;
+    --dark: #282828;
+    --black: black;
+
+    /* Primary Colors */
+    --red: #ea2b1f;
+    --yellow: #f1d302;
+    --blue: #1446be;
+
+    /* Secondary Colors */
+    --gold: #e8af14;
+    --orange: #F77F00;
+    
+    --pink: #ff0f80;
+    --brown: #6B140F;
+    --purple: #571f4e;
+
+    --green: rgb(50, 220, 50);
+    --lime: #61F266;
+    --cyan: rgb(44, 255, 249);
+    --aqua: rgb(44, 176, 249);
+}
