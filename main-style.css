@@ -26,7 +26,7 @@
 }
 
 /* background-colors */
-.bg-white { background-color: var(--white); }
+.f-white { background-color: var(--white); }
 .bg-light { background-color: var(--light); }
 .bg-gray { background-color: var(--gray); }
 .bg-dark { background-color: var(--dark); }
@@ -47,3 +47,26 @@
 .bg-lime { background-color: var(--lime); }
 .bg-cyan { background-color: var(--cyan); }
 .bg-aqua { background-color: var(--aqua); }
+
+/* Text-colors */
+.f-white { color: var(--white); }
+.f-light { color: var(--light); }
+.f-gray { color: var(--gray); }
+.f-dark { color: var(--dark); }
+.f-black { color: var(--black); }
+
+.f-red { color: var(--red); }
+.f-yellow { color: var(--yellow); }
+.f-blue { color: var(--blue); }
+
+.f-gold { color: var(--gold); }
+.f-orange { color: var(--orange); }
+
+.f-pink { color: var(--pink); }
+.f-brown { color: var(--brown); }
+.f-purple { color: var(--purple); }
+
+.f-green { color: var(--green); }
+.f-lime { color: var(--lime); }
+.f-cyan { color: var(--cyan); }
+.f-aqua { color: var(--aqua); }
